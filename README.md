@@ -2,6 +2,8 @@
 
 ## 10 Jogos Eletronicos mais vendidos de 2023
 
+![Goty2023](https://i.blogs.es/7cd0c2/goty-2023/500_333.webp)
+
 | Ranking | Jogo | Data de Lançamento |
 :---: | :---: | :---
 01 | Hogwarts Legacy | 10/02/2023 |
