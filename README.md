@@ -16,4 +16,3 @@
 08 | Mortal Kombat 1 | 14/09/2023 | 
 09 | Star Wars Jedi: Survivor | 28/04/2023 | 
 10 | EA Sports FC 24 | 29/09/2023 | 
-
